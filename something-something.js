@@ -1,0 +1,16 @@
+const adjective1 = "sunny"
+const adjective2 = "cloudy"
+const type_of_bird = "pelican"
+const room_in_a_house = "attic"
+const verb_past_tense = "cartwheeled"
+const verb = "wash"
+const relative_name = "Bob"
+const noun1 = "sock"
+const a_liquid = "pee"
+const verb_ending_in_ing_1 = "dancing"
+const part_of_the_body_plural = "knees"
+const plural_noun = "watermelons"
+const verb_ending_in_ing_2 = "dringking" 
+const name = "Bob"
+
+console.log("It was a ", adjective1, ",cold November day. I woke up to the ", adjective2,"smell of ",type_of_bird, "roasting in the ", room_in_a_house, "downstairs. I", verb_past_tense, "down the stairs to see if I could help ", verb, "the dinner. My mom said to see if ", relative_name,"needs a fresh ", noun1,". So I carried a tray of glasses full of ", a_liquid,"into the ", verb_ending_in_ing_1,"room. When I got there, I couldn't belive my ", part_of_the_body_plural, "There were ", plural_noun, verb_ending_in_ing_2,"on ",name )
